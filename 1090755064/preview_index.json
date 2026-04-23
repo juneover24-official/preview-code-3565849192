@@ -1,0 +1,61 @@
+{
+  "qq_number": "3565849192",
+  "group_number": "1090755064",
+  "updated_at": "2026-04-23T15:52:38.792762",
+  "skins": [
+    {
+      "name": "萌萌软兔熊",
+      "file": "萌萌软兔熊.bdi",
+      "thumb": "萌萌软兔熊.bdi_py_26_default_thumb.png",
+      "full": "萌萌软兔熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "甜酷库洛米",
+      "file": "甜酷库洛米2.bdi",
+      "thumb": "甜酷库洛米2.bdi_py_26_light_thumb.png",
+      "full": "甜酷库洛米2.bdi_py_26_light.png"
+    },
+    {
+      "name": "甜品三丽鸥",
+      "file": "甜品三丽鸥.bdi",
+      "thumb": "甜品三丽鸥.bdi_py_26_light_thumb.png",
+      "full": "甜品三丽鸥.bdi_py_26_light.png"
+    },
+    {
+      "name": "多彩米菲兔",
+      "file": "多彩米菲兔.bdi",
+      "thumb": "多彩米菲兔.bdi_py_26_default_thumb.png",
+      "full": "多彩米菲兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "甜酷库洛米",
+      "file": "甜酷库洛米.bdi",
+      "thumb": "甜酷库洛米.bdi_py_26_light_thumb.png",
+      "full": "甜酷库洛米.bdi_py_26_light.png"
+    },
+    {
+      "name": "萌萌软兔熊",
+      "file": "萌萌软兔熊.bds",
+      "thumb": "萌萌软兔熊.bds_py_26_light_thumb.png",
+      "full": "萌萌软兔熊.bds_py_26_light.png"
+    },
+    {
+      "name": "多彩米菲兔",
+      "file": "多彩米菲兔.bds",
+      "thumb": "多彩米菲兔.bds_py_26_light_thumb.png",
+      "full": "多彩米菲兔.bds_py_26_light.png"
+    },
+    {
+      "name": "甜品三丽鸥",
+      "file": "甜品三丽鸥.bds",
+      "thumb": "甜品三丽鸥.bds_py_26_light_thumb.png",
+      "full": "甜品三丽鸥.bds_py_26_light.png"
+    },
+    {
+      "name": "甜酷库洛米",
+      "file": "甜酷库洛米.bds",
+      "thumb": "甜酷库洛米.bds_py_26_light_thumb.png",
+      "full": "甜酷库洛米.bds_py_26_light.png"
+    }
+  ]
+}

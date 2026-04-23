@@ -1,0 +1,43 @@
+{
+  "qq_number": "3565849192",
+  "group_number": "782174196",
+  "updated_at": "2026-04-23T15:52:38.846361",
+  "skins": [
+    {
+      "name": "阿月肥源93",
+      "file": "阿月肥源93.bdi",
+      "thumb": "阿月肥源93.bdi_py_26_default_thumb.png",
+      "full": "阿月肥源93.bdi_py_26_default.png"
+    },
+    {
+      "name": "阿月肥源89",
+      "file": "阿月肥源89.bdi",
+      "thumb": "阿月肥源89.bdi_py_26_default_thumb.png",
+      "full": "阿月肥源89.bdi_py_26_default.png"
+    },
+    {
+      "name": "阿月肥源91",
+      "file": "阿月肥源91.bdi",
+      "thumb": "阿月肥源91.bdi_py_26_default_thumb.png",
+      "full": "阿月肥源91.bdi_py_26_default.png"
+    },
+    {
+      "name": "阿月肥源91",
+      "file": "阿月肥源91.bds",
+      "thumb": "阿月肥源91.bds_py_26_default_thumb.png",
+      "full": "阿月肥源91.bds_py_26_default.png"
+    },
+    {
+      "name": "阿月肥源93",
+      "file": "阿月肥源93.bds",
+      "thumb": "阿月肥源93.bds_py_26_default_thumb.png",
+      "full": "阿月肥源93.bds_py_26_default.png"
+    },
+    {
+      "name": "阿月肥源89",
+      "file": "阿月肥源89.bds",
+      "thumb": "阿月肥源89.bds_py_26_default_thumb.png",
+      "full": "阿月肥源89.bds_py_26_default.png"
+    }
+  ]
+}
