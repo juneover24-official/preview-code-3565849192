@@ -1,7 +1,7 @@
 {
   "qq_number": "3565849192",
   "group_number": "1090755064",
-  "updated_at": "2026-04-23T15:52:38.792762",
+  "updated_at": "2026-06-10T05:24:40+00:00",
   "skins": [
     {
       "name": "萌萌软兔熊",
@@ -26,12 +26,6 @@
       "file": "多彩米菲兔.bdi",
       "thumb": "多彩米菲兔.bdi_py_26_default_thumb.png",
       "full": "多彩米菲兔.bdi_py_26_default.png"
-    },
-    {
-      "name": "甜酷库洛米",
-      "file": "甜酷库洛米.bdi",
-      "thumb": "甜酷库洛米.bdi_py_26_light_thumb.png",
-      "full": "甜酷库洛米.bdi_py_26_light.png"
     },
     {
       "name": "萌萌软兔熊",
