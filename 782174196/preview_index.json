@@ -1,7 +1,7 @@
 {
   "qq_number": "3565849192",
   "group_number": "782174196",
-  "updated_at": "2026-07-28T07:41:08+00:00",
+  "updated_at": "2026-07-29T07:50:08+00:00",
   "skins": [
     {
       "name": "阿月肥源93",
@@ -56,6 +56,12 @@
       "file": "阿月肥源107.bds",
       "thumb": "阿月肥源107.bds_py_26_light_thumb.png",
       "full": "阿月肥源107.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "阿月肥源108",
+      "file": "阿月肥源108.bdi",
+      "thumb": "阿月肥源108.bdi_py_26_light_thumb.png",
+      "full": "阿月肥源108.bdi_py_26_light_thumb.png"
     }
   ]
 }
